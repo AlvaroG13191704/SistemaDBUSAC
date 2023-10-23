@@ -17,8 +17,3 @@ mysql> GRANT ALL PRIVILEGES ON *.* TO 'nilu'@'172.17.0.1' WITH GRANT OPTION;
 mysql> flush privileges;
 mysql> exit 
 ```
-
-
-## Repositories
-https://github.com/Jodyannre/conferenciaBases1/tree/main/mysql/db
-https://github.com/edinfusion/LAB_BD1_2S2023
